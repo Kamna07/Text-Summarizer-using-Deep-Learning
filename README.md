@@ -6,12 +6,11 @@ for further research.
 
 There are broadly two different approaches that are used for text summarization:
 
-Extractive Summarization
-Abstractive Summarization
+* Extractive Summarization
+* Abstractive Summarization
 
 Technologies
-Python
-Keras Library
-TensorFlow
-Jupyter
-etc.
+* Python
+* Keras Library
+* TensorFlow
+* Jupyter etc.
